@@ -1,0 +1,25 @@
+\baselineskip =0.7\baselineskip 
+\contentsline {chapter}{Abstract}{v}
+\contentsline {chapter}{Acknowledgements}{vi}
+\contentsline {chapter}{\numberline {Chapter 1}Introduction}{1}
+\addvspace {10\p@ }
+\contentsline {chapter}{\numberline {Chapter 2}Background}{2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {section}{\numberline {2.1}An overview of Android Development}{2}
+\contentsline {chapter}{\numberline {Chapter 3}Current System}{3}
+\addvspace {10\p@ }
+\contentsline {chapter}{\numberline {Chapter 4}Motivation and Objective}{4}
+\addvspace {10\p@ }
+\contentsline {chapter}{\numberline {Chapter 5}Approach}{5}
+\addvspace {10\p@ }
+\contentsline {chapter}{\numberline {Chapter 6}Methodology}{6}
+\addvspace {10\p@ }
+\contentsline {chapter}{\numberline {Chapter 7}Learning and recommendations}{7}
+\addvspace {10\p@ }
+\contentsline {chapter}{\numberline {Chapter 8}Conclusion}{8}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {section}{\numberline {8.1}Getting Ready}{8}
+\addvspace {10\p@ }
+\contentsline {section}{\numberline {8.2}Next Step}{8}

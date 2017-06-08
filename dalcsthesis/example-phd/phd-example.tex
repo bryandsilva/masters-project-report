@@ -1,0 +1,78 @@
+% PhD Example
+\documentclass[12pt]{dalcsthesis}
+
+\begin{document}
+
+\phd % options include \mcs, \macs, \mec, \mhi, \phd, and \bcshon
+\title{The title}
+\author{Noah Body}
+\defenceday{1}
+\defencemonth{November}
+\defenceyear{2010}
+\convocation{May}{2011}
+
+% Use multiple \supervisor commands for co-supervisors.
+% Use one \reader command for each reader.
+
+\examiner{Dr.~External Examiner}
+\supervisor{Dr.~Supervisor Prof}
+% \supervisor{Dr.~Two Supervisors} % use if 2 co-supervisors
+\reader{Dr.~Reader Odaprof}
+\reader{Dr.~Reader Second}
+\reader{Dr.~Reader Third}
+\departmental{Dr.~Departmental Rep}
+
+% Note: It seems that it is not required that the printed names of
+% committee members are included (or it may be even recommended not to
+% include them).  In that case, use commands such as:
+%\examiner{} \supervisor{} \reader{} \reader{}  \departmental{}
+
+\nolistoftables
+\nolistoffigures
+
+\frontmatter
+
+\begin{abstract}
+This is a test document.
+\end{abstract}
+
+\begin{acknowledgements}
+Thanks to all the little people who make me look tall.
+\end{acknowledgements}
+
+\mainmatter
+
+\chapter{Introduction}
+
+Get it done!  Use reference material by Knuth~\cite{the-tex-book},
+Gooses, Mittelback, and Samarin~\cite{latex-companion}, or
+Lamport~\cite{latex-by-lamport}.
+
+
+\chapter{Doing It}
+
+\section{Getting Ready}
+
+Get all the parts that I need.  I can throw in a whole pile of terms like
+preparation,
+methodology,
+forethought,
+and
+analysis
+as examples for me to use in the future.
+
+\section{Next Step}
+
+Do it!
+
+Of course, you have to have pictures to show how you did it to make people
+understand things better.
+
+\chapter{Conclusion}
+
+Did it!
+
+\bibliographystyle{plain}
+\bibliography{phd-example}
+
+\end{document}

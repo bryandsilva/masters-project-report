@@ -1,0 +1,109 @@
+\begin{thebibliography}{10}
+
+\bibitem{arnold13a}
+D.~V. Arnold.
+\newblock Resampling versus repair in evolution strategies applied to a
+  constrained linear problem.
+\newblock {\em Evolutionary Computation}, 21(3):389--411, 2013.
+
+\bibitem{arnold08}
+D.~V. Arnold and D.~Brauer.
+\newblock On the behaviour of the {$(1+1)$-ES} for a simple constrained
+  problem.
+\newblock In G.~Rudolph et~al., editors, {\em Parallel Problem Solving from
+  Nature --- PPSN~X}, pages 1--10. Springer Verlag, 2008.
+
+\bibitem{arnold12a}
+D.~V. Arnold and N.~Hansen.
+\newblock A $(1+1)$-{CMA}-{ES} for constrained optimisation.
+\newblock In {\em Genetic and Evolutionary Computation Conference --- GECCO
+  2012}, pages 297--304. ACM Press, 2012.
+
+\bibitem{arnold15a}
+D.~V. Arnold and J.~Porter.
+\newblock Towards an augmented {Lagrangian} constraint handling approach for
+  the {$(1+1)$-ES}.
+\newblock In {\em Genetic and Evolutionary Computation Conference --- GECCO
+  2015}, pages 249--256. ACM Press, 2015.
+
+\bibitem{auger05}
+A.~Auger and N.~Hansen.
+\newblock A restart {CMA} evolution strategy with increasing population size.
+\newblock In {\em IEEE Congress on Evolutionary Computation --- CEC 2005},
+  pages 1769--1776. IEEE Press, 2005.
+
+\bibitem{bagheri15}
+S.~Bagheri, W.~Konen, M.~Emmerich, and T.~B{\"a}ck.
+\newblock Solving the {G}-problems in less than 500 iterations: {Improved}
+  efficient constrained optimization by surrogate modeling and adaptive
+  parameter control.
+\newblock arXiv:1512.09251, 2015.
+
+\bibitem{hansen15}
+N.~Hansen, D.~V. Arnold, and A.~Auger.
+\newblock Evolution strategies.
+\newblock In J.~Kacprzyk and W.~Pedrycz, editors, {\em Springer Handbook of
+  Computational Intelligence}, pages 871--898. Springer Verlag, 2015.
+
+\bibitem{hellwig16}
+M.~Hellwig and D.~V. Arnold.
+\newblock Comparison of constraint handling mechanisms for the
+  {$(1,\lambda)$-ES} on a simple constrained problem.
+\newblock {\em Evolutionary Computation}, 24(1):1--23, 2016.
+
+\bibitem{kern04}
+S.~Kern, S.~D. M{\"u}ller, N.~Hansen, D.~B{\"u}che, J.~Ocenasek, and
+  P.~Koumoutsakos.
+\newblock Learning probability distributions in continuous evolutionary
+  algorithms --- {A} comparative review.
+\newblock {\em Natural Computing}, 3(1):77--112, 2004.
+
+\bibitem{CEC06}
+J.~J. Liang, T.~P. Runarsson, E.~Mezura-Montes, M.~Clerc, P.~N. Suganthan,
+  C.~A.~Coello Coello, and K.~Deb.
+\newblock Problem definitions and evaluation criteria for the {CEC 2006 Special
+  Session on Constrained Real-Parameter Optimization}.
+\newblock Technical report, Nanyang Technological University, Singapore, 2006.
+
+\bibitem{MS96}
+Z.~Michalewicz and M.~Schoenauer.
+\newblock Evolutionary algorithms for constrained parameter optimization
+  problems.
+\newblock {\em Evolutionary Computation}, 4(1):1--32, 1996.
+
+\bibitem{NW06}
+J.~Nocedal and S.~Wright.
+\newblock {\em Numerical Optimization}.
+\newblock Springer Verlag, 2nd edition, 2006.
+
+\bibitem{rechenberg73}
+I.~Rechenberg.
+\newblock {\em Evolutionsstrategie --- Optimierung technischer Systeme nach
+  Prinzipien der biologischen Evolution}.
+\newblock Friedrich Frommann Verlag, 1973.
+
+\bibitem{regis14}
+R.~G. Regis.
+\newblock Constrained optimization by radial basis function interpolation for
+  high-dimensional expensive black-box problems with infeasible initial points.
+\newblock {\em Engineering Optimization}, 46(2):218--243, 2014.
+
+\bibitem{schwefel81}
+H.-P. Schwefel.
+\newblock {\em Numerical Optimization of Computer Models}.
+\newblock Wiley, 1981.
+
+\bibitem{TS06}
+T.~Takahama and S.~Sakai.
+\newblock Constrained optimization by the $\epsilon$ constrained differential
+  evolution with gradient-based mutation and feasible elites.
+\newblock In {\em IEEE World Congress on Computational Intelligence --- WCCI
+  2006}, pages 308--315. IEEE Press, 2006.
+
+\bibitem{TG06}
+O.~Teytaud and S.~Gelly.
+\newblock General lower bounds for evolutionary algorithms.
+\newblock In T.~P. Runarsson et~al., editors, {\em Parallel Problem Solving
+  from Nature --- PPSN~IX}, pages 21--31. Springer Verlag, 2006.
+
+\end{thebibliography}
