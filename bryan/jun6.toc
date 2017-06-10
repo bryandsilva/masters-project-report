@@ -6,20 +6,30 @@
 \contentsline {chapter}{\numberline {Chapter 2}Background}{2}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {section}{\numberline {2.1}An overview of Android Development}{2}
+\contentsline {section}{\numberline {2.1}An Overview of Android Development}{2}
+\contentsline {subsection}{\numberline {2.1.1}About Android}{2}
+\contentsline {subsection}{\numberline {2.1.2}Application Fundamentals}{2}
+\addvspace {10\p@ }
+\contentsline {section}{\numberline {2.2}Camera 2 API}{2}
+\addvspace {10\p@ }
+\contentsline {section}{\numberline {2.3}RenderScript}{2}
 \contentsline {chapter}{\numberline {Chapter 3}Current System}{3}
 \addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {section}{\numberline {3.1}CheckMarc}{3}
 \contentsline {chapter}{\numberline {Chapter 4}Motivation and Objective}{4}
 \addvspace {10\p@ }
-\contentsline {chapter}{\numberline {Chapter 5}Approach}{5}
 \addvspace {10\p@ }
-\contentsline {chapter}{\numberline {Chapter 6}Methodology}{6}
+\contentsline {section}{\numberline {4.1}Storyboard}{4}
 \addvspace {10\p@ }
-\contentsline {chapter}{\numberline {Chapter 7}Learning and recommendations}{7}
+\contentsline {section}{\numberline {4.2}Capturing Images using an Autocapture algorithm}{4}
 \addvspace {10\p@ }
-\contentsline {chapter}{\numberline {Chapter 8}Conclusion}{8}
+\contentsline {section}{\numberline {4.3}Setting the correct exposure}{4}
 \addvspace {10\p@ }
+\contentsline {section}{\numberline {4.4}Comparing the two images}{4}
+\contentsline {chapter}{\numberline {Chapter 5}Methodology}{5}
 \addvspace {10\p@ }
-\contentsline {section}{\numberline {8.1}Getting Ready}{8}
+\contentsline {chapter}{\numberline {Chapter 6}Results}{6}
 \addvspace {10\p@ }
-\contentsline {section}{\numberline {8.2}Next Step}{8}
+\contentsline {chapter}{\numberline {Chapter 7}Conclusion}{7}
+\addvspace {10\p@ }
